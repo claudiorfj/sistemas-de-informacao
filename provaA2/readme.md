@@ -37,8 +37,8 @@ setor que tem mais funcionários.
 - Se a opção 5 for selecionada, o programa varre a árvore em pós ordem com preferência a direita, e informa o código do 
 setor que tem menos funcionários.
 
-- Se a opção 6 for selecionada, o programa varre a árvore in-ordem com preferência a esquerda, e informa o código do 
-setor com menos funcionários.
+- Se a opção 6 for selecionada, o programa varre a árvore in-ordem com preferência a esquerda, mostrando o código de 
+todos os setores.
 
 - Se a opção 7 for selecionada, o programa varre a árvore em pré ordem com preferencia a esquerda, mostrando o código de 
 todos os setores.
