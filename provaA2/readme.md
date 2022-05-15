@@ -10,16 +10,15 @@ Dois para armazenarem o endereço de memória dos nodos filhos
 - Inicialmente um usuario vai entrar com as informaçoes para criação da árvore
 e em seguida o programa deve mostrar o seguinte menu:
 
-1 - Achar setor
-2 - Achar quantidade
-3 - Média
-4 - Achar maior
-5 - Achar menor
-6 - Mostrar tudo in-ordem
-7 - Mostrar tudo pré-ordem
-8 - Mostrar tudo pós-ordem
-
-9 - Vazar
+1. Achar setor
+2. Achar quantidade
+3. Média
+4. Achar maior
+5. Achar menor
+6. Mostrar tudo in-ordem
+7. Mostrar tudo pré-ordem
+8. Mostrar tudo pós-ordem
+9. Vazar
 
 ## Instruções
 
